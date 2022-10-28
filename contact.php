@@ -7,7 +7,7 @@ ini_set("SMTP","mail.gmail.com");
 ini_set("smtp_port","8889");
 
 // Please specify the return address to use
-ini_set('sendmail_from', 'sevanlifeexports@gmail.com');
+ini_set('sendmail_from', 'aaimogal2022@gmail.com');
 if(!$_POST) exit;
 
 // Email address verification, do not edit.
@@ -39,7 +39,7 @@ if(get_magic_quotes_gpc()) {
 // Enter the email address that you want to emails to be sent to.
 // Example $address = "joe.doe@yourdomain.com";
 
-$address = "sevanlifeexports@gmail.com";
+$address = "aaimogal2022@gmail.com";
 //$address = $_REQUEST['email'] ;
 
 
